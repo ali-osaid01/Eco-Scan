@@ -66,7 +66,6 @@
     <li><strong>Frontend:</strong> React Native / Flutter</li>
     <li><strong>Backend:</strong> Firebase (Auth, Firestore)</li>
     <li><strong>Image Detection:</strong> TensorFlow Lite / OpenCV</li>
-    <li><strong>Design:</strong> Figma (green-white palette)</li>
   </ul>
 
   <h2 style="color: #388e3c;">📈 Impact</h2>
@@ -77,8 +76,6 @@
     <li>Supports environmental education through tech</li>
   </ul>
 
-  <h2 style="color: #388e3c;">🤝 Contributing</h2>
-  <p>We welcome contributors! Feel free to fork the project and submit a pull request. Let’s make sustainability smarter, together.</p>
 
   <h2 style="color: #388e3c;">📄 License</h2>
   <p>This project is licensed under the <strong>MIT License</strong>.</p>
