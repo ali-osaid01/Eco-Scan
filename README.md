@@ -52,14 +52,23 @@
 
   <h2 style="color: #388e3c;">🎨 Figma Design Screens</h2>
   <p><strong>Note:</strong> These are temporary <code>blob</code> URLs. Please replace with public Figma links for full access.</p>
-  <ul>
-    <li>📱 Register: <code>blob:https://web.whatsapp.com/9029a237-5fd0-4344-bc09-abad525bbe80</code></li>
-    <li>🪪 Register Modal: <code>blob:https://web.whatsapp.com/67011700-ea84-4e64-af9d-35c8e123c1d4</code></li>
-    <li>🔐 OTP: <code>blob:https://web.whatsapp.com/cc9b8969-b08d-4095-ba47-3ac93328c1ef</code></li>
-    <li>📷 Scan: <code>blob:https://web.whatsapp.com/2918f8e3-76ee-4918-851b-7fa2dbfa6327</code></li>
-    <li>📊 Scan Result: <code>blob:https://web.whatsapp.com/bb4e23c8-ea59-405b-85ac-44bd2b90b16b</code></li>
-    <li>👤 Profile: <code>blob:https://web.whatsapp.com/0830e852-9809-4fe7-9f24-ddfaf0158452</code></li>
-  </ul>
+ ## 📸 Screenshots
+
+### 📝 Register Screen
+![Register](https://i.imgur.com/example1.png)
+
+### 🔐 OTP Verification
+![OTP](https://i.imgur.com/example2.png)
+
+### 📷 Product Scan
+![Scan](https://i.imgur.com/example3.png)
+
+### 📊 Scan Result
+![Scan Result](https://i.imgur.com/example4.png)
+
+### 👤 Profile Page
+![Profile](https://i.imgur.com/example5.png)
+
 
   <h2 style="color: #388e3c;">⚙️ Tech Stack</h2>
   <ul>
