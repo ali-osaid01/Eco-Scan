@@ -1,117 +1,85 @@
-🌿 Eco-Scan
-Eco-Scan is a mobile-first application built for the Google Solution Challenge, targeting Sustainable Development Goal 12: Responsible Consumption and Production. The app empowers users to make eco-conscious shopping decisions by scanning invisible product patterns and retrieving real-time environmental impact insights.
+<div style="font-family: Arial, sans-serif; color: #2e2e2e; background-color: #ffffff; padding: 20px; line-height: 1.6;">
+  <h1 style="color: #2e7d32;">🌿 Eco-Scan</h1>
+  <p><strong>Empowering eco-conscious shopping through invisible product scans</strong><br>
+  Built for the <strong>Google Solution Challenge 2025</strong> — Targeting <em>UN SDG 12: Responsible Consumption & Production</em></p>
 
-<div align="center"> <img src="https://img.shields.io/badge/Google%20Solution%20Challenge-2025-34A853?style=for-the-badge&logo=google" alt="Google Solution Challenge Badge"> </div>
-📌 Table of Contents
-🌍 Problem We Solve
+  <hr>
 
-💡 Our Solution
+  <h2 style="color: #388e3c;">📘 Overview</h2>
+  <p><strong>Eco-Scan</strong> is a mobile app that allows users to scan products embedded with <strong>invisible identification patterns</strong> and instantly receive a detailed breakdown of their <strong>eco-friendliness</strong>. It analyzes packaging, production sources, carbon impact, and more — enabling smarter, greener purchases.</p>
 
-🛠️ Features
+  <h2 style="color: #388e3c;">🌍 Problem Statement</h2>
+  <p>Consumers want to make sustainable choices — but they lack simple, accessible tools to understand how eco-friendly a product really is.</p>
+  <ul>
+    <li>Is it recyclable?</li>
+    <li>Was it ethically sourced?</li>
+    <li>What's its carbon footprint?</li>
+  </ul>
+  <p>Without clear answers, most purchases are made without environmental awareness — and brands aren’t pressured to be more transparent.</p>
 
-🔍 How It Works
+  <h2 style="color: #388e3c;">💡 Our Solution</h2>
+  <p>Eco-Scan allows users to scan a product’s invisible tag and instantly view:</p>
+  <ul>
+    <li><strong>✅ Eco Score</strong> — A sustainability rating from 0 to 100</li>
+    <li><strong>♻️ Packaging recyclability</strong></li>
+    <li><strong>🌱 Ethical sourcing and manufacturing data</strong></li>
+    <li><strong>📉 Carbon footprint estimates</strong></li>
+  </ul>
+  <p>This empowers consumers and promotes responsible production practices.</p>
 
-🎨 UI Design (Figma)
+  <h2 style="color: #388e3c;">🎯 Google Solution Challenge</h2>
+  <p>This project was developed for the <strong>Google Solution Challenge 2025</strong>, where students solve real-world problems using technology to advance the <a href="https://sdgs.un.org/goals" target="_blank">UN Sustainable Development Goals</a>.</p>
+  <p>Eco-Scan addresses:</p>
+  <p><strong>🎯 Goal 12: Responsible Consumption & Production</strong></p>
 
-🧰 Tech Stack
+  <h2 style="color: #388e3c;">✨ Features</h2>
+  <ul>
+    <li>🔍 Invisible product scanning</li>
+    <li>📊 Eco-score and sustainability breakdown</li>
+    <li>🔐 OTP login & registration</li>
+    <li>🧾 Scan history and user profiles</li>
+    <li>🎨 Clean, green-white themed UI</li>
+  </ul>
 
-🌱 Impact
+  <h2 style="color: #388e3c;">🔎 How It Works</h2>
+  <ol>
+    <li>User registers with OTP</li>
+    <li>User scans a product</li>
+    <li>Invisible pattern is recognized</li>
+    <li>App fetches product’s sustainability data</li>
+    <li>Eco-score and analysis are shown</li>
+  </ol>
 
-📸 Screenshots
+  <h2 style="color: #388e3c;">🎨 Figma Design Screens</h2>
+  <p><strong>Note:</strong> These are temporary <code>blob</code> URLs. Please replace with public Figma links for full access.</p>
+  <ul>
+    <li>📱 Register: <code>blob:https://web.whatsapp.com/9029a237-5fd0-4344-bc09-abad525bbe80</code></li>
+    <li>🪪 Register Modal: <code>blob:https://web.whatsapp.com/67011700-ea84-4e64-af9d-35c8e123c1d4</code></li>
+    <li>🔐 OTP: <code>blob:https://web.whatsapp.com/cc9b8969-b08d-4095-ba47-3ac93328c1ef</code></li>
+    <li>📷 Scan: <code>blob:https://web.whatsapp.com/2918f8e3-76ee-4918-851b-7fa2dbfa6327</code></li>
+    <li>📊 Scan Result: <code>blob:https://web.whatsapp.com/bb4e23c8-ea59-405b-85ac-44bd2b90b16b</code></li>
+    <li>👤 Profile: <code>blob:https://web.whatsapp.com/0830e852-9809-4fe7-9f24-ddfaf0158452</code></li>
+  </ul>
 
-📣 Contributing
+  <h2 style="color: #388e3c;">⚙️ Tech Stack</h2>
+  <ul>
+    <li><strong>Frontend:</strong> React Native / Flutter</li>
+    <li><strong>Backend:</strong> Firebase (Auth, Firestore)</li>
+    <li><strong>Image Detection:</strong> TensorFlow Lite / OpenCV</li>
+    <li><strong>Design:</strong> Figma (green-white palette)</li>
+  </ul>
 
-📄 License
+  <h2 style="color: #388e3c;">📈 Impact</h2>
+  <ul>
+    <li>Informs users about the impact of everyday purchases</li>
+    <li>Promotes sustainable behavior change</li>
+    <li>Drives corporate accountability and transparency</li>
+    <li>Supports environmental education through tech</li>
+  </ul>
 
-🌍 Problem We Solve
-In today’s market, consumers are increasingly concerned about sustainability but often lack accessible information on how eco-friendly the products they buy actually are. Details such as:
+  <h2 style="color: #388e3c;">🤝 Contributing</h2>
+  <p>We welcome contributors! Feel free to fork the project and submit a pull request. Let’s make sustainability smarter, together.</p>
 
-The recyclability of packaging
-
-The carbon footprint of manufacturing
-
-Ethical sourcing of materials
-
-...are either not available, buried in fine print, or simply too technical to understand.
-
-This leads to uninformed purchases, even by well-meaning buyers, and doesn’t pressure companies to be more transparent.
-
-💡 Our Solution
-Eco-Scan solves this by allowing users to scan invisible patterns embedded on products, which fetch comprehensive eco-reports instantly. These reports break down:
-
-Environmental impact score
-
-Material details (recyclability, origin)
-
-Carbon emissions
-
-Brand sustainability rating
-
-✅ Simple Scan ➡ Clear Insights ➡ Smarter, Greener Choices.
-
-This app was submitted for the Google Solution Challenge 2025, under the umbrella of using technology to achieve the United Nations Sustainable Development Goals (UN SDGs) — especially Goal 12: Responsible Consumption and Production.
-
-🛠️ Features
-📱 Invisible Product Pattern Scanner
-Detects unique, non-visible patterns on product surfaces.
-
-♻️ Eco-Friendliness Rating
-Calculates an eco-score based on product lifecycle, carbon footprint, and packaging.
-
-🔐 OTP-based Authentication
-Secure login and registration using phone numbers and one-time-passwords.
-
-👤 User Profile
-View scanned history and personalize user settings.
-
-🌐 Brand & Product Database
-Linked to a backend containing sustainability data on various items.
-
-🎨 Clean UI with Green-White Theme
-Visually aligned with the sustainability concept.
-
-🔍 How It Works
-User Registers/Login using phone number and OTP.
-
-User Scans a product using the camera.
-
-The app detects invisible pattern markers embedded in the product.
-
-The product’s environmental data is retrieved from our database.
-
-User sees an eco-friendliness breakdown, with actionable insights.
-
-🎨 UI Design (Figma)
-Note: The following links are local blob URLs. Please replace these with public Figma sharing links for external access.
-
-Page	Figma Preview (Local Blob)
-Register	blob:https://web.whatsapp.com/9029a237-5fd0-4344-bc09-abad525bbe80
-Register Modal	blob:https://web.whatsapp.com/67011700-ea84-4e64-af9d-35c8e123c1d4
-OTP Screen	blob:https://web.whatsapp.com/cc9b8969-b08d-4095-ba47-3ac93328c1ef
-Scan Screen	blob:https://web.whatsapp.com/2918f8e3-76ee-4918-851b-7fa2dbfa6327
-Scan Result	blob:https://web.whatsapp.com/bb4e23c8-ea59-405b-85ac-44bd2b90b16b
-Profile	blob:https://web.whatsapp.com/0830e852-9809-4fe7-9f24-ddfaf0158452
-
-⚠️ These links will not work unless opened in the same browser session. Please upload the designs to Figma and use public links for broader access.
-
-🧰 Tech Stack
-Frontend: React Native / Flutter (depending on your actual tech)
-
-Backend: Firebase / Node.js
-
-Authentication: Firebase Auth with OTP
-
-Database: Firestore / MongoDB
-
-Design: Figma
-
-Image Detection: OpenCV / TensorFlow Lite (for pattern recognition)
-
-🌱 Impact
-Helps reduce carbon footprint through informed consumption.
-
-Encourages sustainable practices among brands.
-
-Makes sustainability accessible through a user-friendly app.
-
-Contributes directly to UN SDG 12.
+  <h2 style="color: #388e3c;">📄 License</h2>
+  <p>This project is licensed under the <strong>MIT License</strong>.</p>
+</div>
