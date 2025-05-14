@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b9a06124-1c0c-4024-ae91-5d0609edb841)<div style="font-family: Arial, sans-serif; color: #2e2e2e; background-color: #ffffff; padding: 20px; line-height: 1.6;">
+
   <h1 style="color: #2e7d32;">🌿 Eco-Scan</h1>
   <p><strong>Empowering eco-conscious shopping through invisible product scans</strong><br>
   Built for the <strong>Google Solution Challenge 2025</strong> — Targeting <em>UN SDG 12: Responsible Consumption & Production</em></p>
@@ -51,21 +51,6 @@
   </ol>
 
   <h2 style="color: #388e3c;">🎨Screens</h2>
-
-<p><strong>📱 Get Started</strong></p>
-<img src="https://media.discordapp.net/attachments/1102191403976634439/1372322605381713941/get_started.png" alt="Get Started" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
-
-<p><strong>🪪 Get Started - Page 2</strong></p>
-<img src="https://media.discordapp.net/attachments/1102191403976634439/1372322604852969503/get_started_2.png" alt="Get Started 2" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
-
-<p><strong>📊 Scan Result</strong></p>
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAgCAYAAADJ2fKUAAAHRklEQVR4AQA1AMr..." alt="Scan Result" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
-
-<p><strong>👤 Profile</strong></p>
-<img src="https://media.discordapp.net/attachments/1102191403976634439/1372322603737546863/profile.png" alt="Profile Screen" width="200" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"/>
-  
-
-
 
   <h2 style="color: #388e3c;">⚙️ Tech Stack</h2>
   <ul>
