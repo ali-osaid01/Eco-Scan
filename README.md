@@ -73,4 +73,10 @@
 
   <h2 style="color: #388e3c;">📄 License</h2>
   <p>This project is licensed under the <strong>MIT License</strong>.</p>
+  
+  ## 👥  Contributors
+  |[Khizar Saqib](https://github.com/Khizarkk7)|
+  |---|---|---|
+  |<img src="https://avatars.githubusercontent.com/u/124410812?v=4">|
 </div>
+
