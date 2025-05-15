@@ -76,9 +76,9 @@
   
   ## 👥  Contributors
   
- |[Amish Toor](https://github.com/Amish360)|[Hira Fatima](https://github.com/hirafatimaa)|[Khizar Saqib](https://github.com/Khizarkk7)|
-|---|---|---|
-|<img src="https://avatars.githubusercontent.com/u/95700722?v=4">|<img src="https://avatars.githubusercontent.com/u/107710789?v=4">|<img src="https://avatars.githubusercontent.com/u/124410812?v=4">|
+ |[Khizar Saqib](https://github.com/Khizarkk7)|[Ali Osaid](https://github.com/ali-osaid01)|[Sidra]()|[Maham Aftab]()|
+|---|---|---|---|
+|<img src="https://avatars.githubusercontent.com/u/124410812?v=4">|<img src="">|<img src="">|<img src="">|
 
 </div>
 
